@@ -1,5 +1,5 @@
 # ALU
-Objectives
+### Objectives  
 •	To design and implement a parameterized ALU in Verilog which performs various arithmetic and logical operations.  
 •	To develop the ALU using clean, modular, and synthesizable Verilog code while adhering to industry best practice.  
 •	To create a detailed test plan that thoroughly tests all features and edge cases of the ALU.  
